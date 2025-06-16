@@ -2,8 +2,8 @@
 
 I'm Jack Sagliano and I'm passionate about software development.
 
-- 🎯 Focused on full-stack development
-- 🧠 Currently a Master's student in Computer Science at the University of Bologna
+ 🎯 Focused on full-stack development
+ 🧠 Currently a Master's student in Computer Science at the University of Bologna
 
 
 ## 🤝 Let's connect
