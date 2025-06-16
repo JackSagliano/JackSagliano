@@ -1,10 +1,9 @@
-# 👋 Hi there, I'm Jack Sagliano
+# 👋 Hi there
 
-Welcome to my GitHub profile! I'm passionate about software development, creative technology, and building projects that mix logic with expression. Currently exploring the intersections between code, AI, and creativity.
+I'm Jack Sagliano and I'm passionate about software development.
 
-- 🎯 Focused on full-stack development and machine learning
-- 🧠 Always learning something new (currently: AI fine-tuning & generative models)
-- 💬 Let's connect — collaboration is my favorite way to grow
+- 🎯 Focused on full-stack development
+- 🧠 Currently a Master's student in Computer Science at the University of Bologna
 ---
 
 ## 🤝 Let's connect
