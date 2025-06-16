@@ -8,7 +8,7 @@ I'm Jack Sagliano and I'm passionate about software development.
 
 ## 🤝 Let's connect
 
-📫 Email: [giacomosagliano@gmail.com]  
-💼 LinkedIn: [https://www.linkedin.com/in/giacomo-sagliano-a4a70120a/]
+📫 [giacomosagliano@gmail.com](mailto:giacomosagliano@gmail.com)  
+💼 [LinkedIn Profile](https://www.linkedin.com/in/giacomo-sagliano-a4a70120a/)
 
 ![Hits](https://hits.sh/github.com/jacksagliano/jacksagliano.svg)
